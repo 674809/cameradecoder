@@ -1,0 +1,4 @@
+
+rootProject.name = "CameraDecod"
+include ':app'
+include ':accessibility'
